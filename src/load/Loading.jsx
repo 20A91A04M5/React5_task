@@ -1,5 +1,5 @@
 
-import "/src/load/load.css"
+import "./Load.css"
 function Load(){
     
     return (
